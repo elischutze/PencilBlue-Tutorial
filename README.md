@@ -35,7 +35,7 @@ Install from scratch by following these steps:
 
 ![PencilBlue Install Settings][install]
 
-[install]:/Users/elianne/Documents/Screenshots/Screen Shot 2016-05-06 at 12.10.24 am.png
+[install]: https://github.com/elischutze/PencilBlue-Tutorial/blob/master/resources/install-settings.png
 
 
 
